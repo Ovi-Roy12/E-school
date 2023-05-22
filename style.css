@@ -1,0 +1,115 @@
+.img{
+  width: 150px;
+  height: 50px;
+
+}
+
+.bg{
+  background-color: #f0fff0;
+  height: 80vh;
+}
+
+.nav a{
+  color: #333;
+  font-weight: 600;
+ 
+}
+
+.nav-item{
+  padding: 10px;
+}
+.sign-in a{
+  background-color: #21b573;
+  border: 1px solid #21b573;
+  width: 100px;
+  height: 40px;
+  border-radius: 2rem;
+  color: white;
+  padding: 6px;
+}
+.sign-in a:hover{
+  color: white;
+}
+
+.edit-txt{
+  color: #21b573;
+}
+
+.sub-head{
+  color: #fc5c27;
+}
+
+.btn-bd-primary {
+    font-weight: 600;
+    background-color: #21b573;
+    width: 140px;
+    height: 40px;
+    border: 1px solid #21b573;
+    border-radius: 2rem;
+
+}
+
+.btn-inside{
+  text-decoration: none;
+  color: white;
+}
+
+.btn-inside:hover{
+  color: aliceblue;
+}
+
+.btn-bd-primary:hover{
+  background-color: #18a566
+}
+
+.student-img{
+  width: 80px;
+  height: 80px;
+}
+
+
+.book-img{
+  width: 70px;
+  height: 80px;
+}
+.small-txt{
+  color: gray;
+}
+
+.main-head{
+  text-align: center;
+  color: #413960;
+}
+.card-title{
+  color: #413960;
+  font-weight: 600;
+}
+
+
+
+.footer-img{
+  width: 20px;
+  height: auto;
+  padding: 0px 1px;
+}
+
+.testimonial-pic{
+  width: 100px;
+  height: 100px;
+  margin-left: 240px;
+}
+
+.address{
+  position: absolute;
+  padding-left: 10px;
+}
+
+.copyright{
+  text-align: center;
+}
+
+.ovi{
+ text-align: center;
+ font-family: f;
+ font-size: x-small;
+}
